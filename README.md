@@ -1,7 +1,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# TrackMyCart  
+# TrackMyCart  ⚡
 - The Street Vendors digitalization Project - Walk less Earn More
 - In order to just Run App just Click on releases section and download either user app from which you could see nearby carts or the merchant app where you can upload your details as a cart owner from this repo
+- The source code of both the app are uploaded in the two folders labbled as either TrackMyCart Merchant App or TrackMyCart User App. 
+- [Click here to go to the download section of the app](https://github.com/vineetkrgupta/TrackMyCart/releases)
+- Incase of any problem contact the team at - Vk779756@gmail.com
+- [Youtube Video Link of demo](https://www.youtube.com/watch?v=rsG5B4frGs0)
 
 
 ### How to Run Code
@@ -37,3 +41,4 @@ After the command is run successfully you can run the app on real device or on e
 
 And that was all about the Application of this repository, Thanks for watching.
 
+                                                                      Made with ❤
