@@ -1,4 +1,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+[![Twitter Badge](https://img.shields.io/badge/-@gupta_v1n33t-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@gupta_v1n33t)](https://twitter.com/@gupta_v1n33t) [![Linkedin Badge](https://img.shields.io/badge/-vineet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-kumar-gupta/)](https://www.linkedin.com/in/vineet-kumar-gupta/) [![Medium Badge](https://img.shields.io/badge/-@vineet-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vineet-kumar-gupta)](https://medium.com/@vineet-kumar-gupta)  [![Gmail Badge](https://img.shields.io/badge/-vk779756@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vk779756@gmail.com)
+](mailto:vk779756@gmail.com)[ 
+![GitHub Thaiane](https://img.shields.io/github/followers/vineetkrgupta?label=follow&style=social)](https://github.com/vineetkrgupta)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vineetkumargupta/TrackMyCart)
 # TrackMyCart  ⚡
 - The Street Vendors digitalization Project - Walk less Earn More
 - In order to just Run App just Click on releases section and download either user app from which you could see nearby carts or the merchant app where you can upload your details as a cart owner from this repo
